@@ -4,7 +4,7 @@
 echo "Please enter a positive integer:"
 read -r X
 N=1
-rem=$(($X % 2 ))
+
 
 while [[ $N -le $X ]]
 do
