@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name:Christopher Isidro 
+2. Student ID:2370110 
+3. Email: cisidro@chapman.edu
+4. Class: CPSC 298
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -18,7 +18,7 @@ A bash script named “numbers.sh” that will
 ## Known Errors 
 
 ## References
-
+Day 9 Lecture
 ## Instructions
 To run the script with input from the included numbers-input file:
 ./numbers.sh < numbers-input
